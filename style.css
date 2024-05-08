@@ -52,12 +52,13 @@
 }
 
 #estudante{
-    padding: 24px 0;
+    padding: 1px 0;
 }
 
 
 .estudante-imagem{
-    width: 120px;
+    width: 250px;
+    height: 200px;
 }
 
 .estudante-icone{
@@ -82,7 +83,7 @@
 
 .estudante-todos{
     background-image: linear-gradient(#ffffff,#000000);
-    color: rgb(0, 0, 0);
+    color: rgb(138, 138, 138);
     padding: 24px 0;
   }
 
@@ -92,7 +93,8 @@
 }
 
 .rodape-imagem{
-    height: 60px;
-    padding: 12px 0;
+    height: 100px;
+    width: 100;
+    padding: 12px 100;
 
 }
